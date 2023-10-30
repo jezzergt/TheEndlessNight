@@ -1,14 +1,25 @@
 # TheEndlessNight
 
-Endless Night was my submission for the 2023 Pixel Art Game Jam. This project was completed in a little over 5 days and built using Unity.
+**Endless Night was my submission for the 2023 Pixel Art Game Jam. This project was completed in a little over 5 days. The theme for this Game Jam is Mystery, so we have decided to do a fantasy, 2d, side-scroller in unity. The game includes story-telling, adventure and secrets to be revealed.**
 
-Link to Itch.io submission - https://jezzygt.itch.io/the-endless-night
+<br />
 
-**Created by:**
+### Submission
++ https://jezzygt.itch.io/the-endless-night
+
+<br />
+
+### Created By
 + https://mishaharris.itch.io/
 + https://jezzygt.itch.io/
 
-The theme for this Game Jam is Mystery, so we have decided to do a fantasy, 2d, side-scroller in unity. The game includes story-telling, adventure and secrets to be revealed.
+<br />
+
+### Built With
+
+* [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+* ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 ----
 
@@ -17,7 +28,9 @@ The theme for this Game Jam is Mystery, so we have decided to do a fantasy, 2d, 
 ![Endless Night 3](https://github.com/jezzergt/TheEndlessNight/assets/25508345/3fb18a8c-9316-4093-8235-8c3cd54696b4)
 ![Endless Night 4](https://github.com/jezzergt/TheEndlessNight/assets/25508345/b1a5304f-2567-40bd-b786-501b1430ab21)
 
-**Acknowledgements & Credit**
+<br />
+
+### Acknowledgements & Credit
 
 + Gameplay Music: https://draelent.itch.io/our-lord-is-not-ready
 + Opening Music: Chain Warden from https://gamaliwa.itch.io/dark-a
